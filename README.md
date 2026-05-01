@@ -115,6 +115,6 @@ Bước cuối cùng nhằm trích xuất các thông tin quan trọng từ text
 ![pipeline](https://raw.githubusercontent.com/TranDucThien-0509/CS406.Q11/main/KIE.png)
 ---
 
-## 📌 Ví dụ kết quả
+## Ví dụ kết quả
 
 ![result](https://raw.githubusercontent.com/TranDucThien-0509/CS406.Q11/main/input_result.png)
